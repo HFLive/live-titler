@@ -1,3 +1,7 @@
+This repository was transferred from `xiaoxuan010/HFLive-BMT` to `HFLive/live-titler` on June 2, 2025.
+
+---
+
 # HFLive-BMT
 
 ![](https://i.bmp.ovh/imgs/2022/02/3984a1bfd6d18100.png)
